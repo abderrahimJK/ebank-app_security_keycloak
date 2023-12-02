@@ -12,6 +12,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="D:/Projects/eBank/ebank-service-unsecured/pom.xml" />
+        <option value="D:/Projects/eBank/wallet-service-secured/pom.xml" />
       </set>
     </option>
   </component>

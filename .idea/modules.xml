@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ebank-app_security_keycloak.iml" filepath="$PROJECT_DIR$/ebank-app_security_keycloak.iml" />
-      <module fileurl="file://D:/Projects/wallet-front-angular-unsecured/wallet-front-angular-secured.iml" filepath="D:/Projects/wallet-front-angular-unsecured/wallet-front-angular-secured.iml" />
     </modules>
   </component>
 </project>

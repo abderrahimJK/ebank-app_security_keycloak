@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="wallet-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ebank-service" target="17" />
+      <module name="wallet-service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
